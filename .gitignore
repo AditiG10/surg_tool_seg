@@ -1,0 +1,20 @@
+# Ignore dataset folders
+data/
+__pycache__/
+.DS_Store
+
+# Ignore checkpoints and model weights
+checkpoints/
+*.pth
+
+# Ignore results and logs
+*.csv
+*.log
+
+# Ignore Colab and Jupyter files
+.ipynb_checkpoints/
+*.ipynb
+
+# Ignore temporary files
+*.tmp
+*.bak

@@ -1,0 +1,21 @@
+# Core PyTorch
+torch==2.6.0
+torchvision==0.21.0
+torchaudio==2.5.1
+
+# Segmentation model library
+segmentation-models-pytorch==0.4.0
+pretrainedmodels==0.7.4
+efficientnet_pytorch==0.7.1
+timm==1.0.15
+
+# Image and Data Utils
+albumentations==2.0.5
+opencv-python-headless==4.11.0.86
+Pillow==9.5.0
+numpy
+scikit-learn
+scipy
+matplotlib
+tqdm
+PyYAML
